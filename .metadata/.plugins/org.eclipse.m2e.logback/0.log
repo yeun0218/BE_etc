@@ -1,0 +1,2 @@
+2024-09-20 16:48:57,479 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-20 16:52:51,187 [Worker-6: https://download.oracle.com/otn_software/oepe/12.2.1.10/photon/repository/site.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.oracle.com:443
